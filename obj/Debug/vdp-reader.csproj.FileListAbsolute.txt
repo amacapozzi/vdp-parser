@@ -1,0 +1,9 @@
+R:\Works\vdp-reader\vdp-reader\bin\Debug\vdp-reader.exe.config
+R:\Works\vdp-reader\vdp-reader\bin\Debug\vdp-reader.exe
+R:\Works\vdp-reader\vdp-reader\bin\Debug\vdp-reader.pdb
+R:\Works\vdp-reader\vdp-reader\bin\Debug\VdfConverter.dll
+R:\Works\vdp-reader\vdp-reader\obj\Debug\vdp-reader.csproj.AssemblyReference.cache
+R:\Works\vdp-reader\vdp-reader\obj\Debug\vdp-reader.csproj.CoreCompileInputs.cache
+R:\Works\vdp-reader\vdp-reader\obj\Debug\vdp-reader.csproj.Up2Date
+R:\Works\vdp-reader\vdp-reader\obj\Debug\vdp-reader.exe
+R:\Works\vdp-reader\vdp-reader\obj\Debug\vdp-reader.pdb
